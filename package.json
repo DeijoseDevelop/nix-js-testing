@@ -1,6 +1,6 @@
 {
   "name": "@deijose/nix-js-testing",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Testing utilities for Nix.js — lightweight, DOM-agnostic and tree-shakeable",
   "license": "MIT",
   "author": "Deiver Vasquez",
@@ -34,7 +34,7 @@
     "prepublishOnly": "bun run build"
   },
   "peerDependencies": {
-    "@deijose/nix-js": "^2.5.0"
+    "@deijose/nix-js": "^2.5.1"
   },
   "peerDependenciesMeta": {
     "@deijose/nix-js": {
@@ -42,7 +42,7 @@
     }
   },
   "devDependencies": {
-    "@deijose/nix-js": "^2.5.0",
+    "@deijose/nix-js": "^2.5.1",
     "@types/node": "^22.0.0",
     "happy-dom": "^20.8.3",
     "typescript": "~5.9.3",
