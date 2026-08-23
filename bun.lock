@@ -5,19 +5,19 @@
     "": {
       "name": "@deijose/nix-js-testing",
       "devDependencies": {
-        "@deijose/nix-js": "3.0.3",
+        "@deijose/nix-js": "3.2.1",
         "@types/node": "^22.0.0",
         "happy-dom": "^20.8.3",
         "typescript": "~5.9.3",
         "vitest": "^4.0.18",
       },
       "peerDependencies": {
-        "@deijose/nix-js": "^3.0.3",
+        "@deijose/nix-js": "^2.5.3 || ^3.0.0",
       },
     },
   },
   "packages": {
-    "@deijose/nix-js": ["@deijose/nix-js@3.0.3", "", {}, "sha512-ZXzTgmIIOyOQtJwPVjIiA1/zFVXX7sXPUs1CSj9gruPbbz3A9txGnTNTNmPLWl1MI8o1Gz/ciboHucy9XBIEEQ=="],
+    "@deijose/nix-js": ["@deijose/nix-js@3.2.1", "", {}, "sha512-QpaWQijyTEu3y5pmumxRw1lmv+Jkx6N+5XFQhYZx4/aINEahgh9P4IlOkjt3YJGotUfl/JcxcOA42pErdwIUAQ=="],
 
     "@emnapi/core": ["@emnapi/core@1.10.0", "", { "dependencies": { "@emnapi/wasi-threads": "1.2.1", "tslib": "^2.4.0" } }, "sha512-yq6OkJ4p82CAfPl0u9mQebQHKPJkY7WrIuk205cTYnYe+k2Z8YBh11FrbRG/H6ihirqcacOgl2BIO8oyMQLeXw=="],
 
